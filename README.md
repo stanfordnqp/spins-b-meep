@@ -5,4 +5,5 @@ Further documentation forthcoming.
 
 ## Installation
 
-Download the repository and install with pip.
+1. Install Meep.
+2. Download this repository and install with pip.
